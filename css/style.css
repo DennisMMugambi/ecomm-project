@@ -167,3 +167,10 @@
     top: 21px;
     left: 8px;
     }
+    .carousel {
+        height:10%;
+        width:100%;
+    }
+    #imgs {
+        height:500px;
+    }
