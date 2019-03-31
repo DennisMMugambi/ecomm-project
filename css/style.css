@@ -169,8 +169,10 @@
     }
     .carousel {
         height:10%;
-        width:100%;
+        width:90%;
+        margin: auto;
     }
     #imgs {
         height:500px;
+        margin: auto;
     }
